@@ -1,4 +1,8 @@
-# Computer-Applicatons-DCU
+# Programming
 
 
-Test
+
+Computer lab exercises
+
+
+
